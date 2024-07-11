@@ -17,4 +17,12 @@ struct Index {
     }
     .height('100%')
   }
+
+  aboutToAppear() {
+
+  }
+
+  aboutToDisappear() {
+
+  }
 }
